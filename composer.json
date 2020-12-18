@@ -1,0 +1,14 @@
+{
+    "name": "fytinnovations/oc-scaffold-translation-plugin",
+    "type": "october-plugin",
+    "description": "OctoberCMS plugin to make development easier by providing IDE helpers",
+    "homepage": "https://github.com/fytinnovations/oc-scaffold-translation-plugin",
+    "keywords": ["october", "octobercms", "laravel", "ide", "helper", "vscode", "phpstorm", "php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fytinnovations",
+            "homepage": "https://www.fytinnovations.com/"
+        }
+    ]
+}
